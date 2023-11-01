@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.py-6{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.head-text{
+    font-size: 1.2rem;
+}
+
+.head{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(0, 0, 0,0.7)), url("../img/premium_photo-1680985551009-05107cd2752c.jpeg");
+    background-size: cover;
+}
+.head2{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(0, 0, 0,0.7)), url("../img/");
+    background-size: cover;
+}
+
+.my-6{
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+#contact{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image:url("../img/rahul-chakraborty-xsGxhtAsfSA-unsplash.jpg");
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+}
+

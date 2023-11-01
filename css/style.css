@@ -1,0 +1,22 @@
+/* Custom CSS styles for your website */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+}
+
+.featured-products {
+    padding: 50px 0;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
